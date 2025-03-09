@@ -34,6 +34,7 @@ from unicodedata import digit
 # ['H', 'E', 'L', 'L', 'O', ',', ' ', 'W', 'O', 'R', 'L', 'D']
 greeting = 'Hello, world'
 print([ch.upper() for ch in greeting])
+
 #
 # 2) з диапозону від 0-50 записати тільки не парні числа при цьому піднести їх до квадрату
 # приклад:
